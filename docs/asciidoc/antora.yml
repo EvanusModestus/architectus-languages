@@ -1,0 +1,37 @@
+name: languages
+title: Languages
+version: '2026'
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/nav.adoc
+
+asciidoc:
+  attributes:
+    doc-id: ARCHITECTUS-LANGUAGES
+    revdate: '2026-02-17'
+    author: Architectus
+    icons: font
+    source-highlighter: highlight.js
+    experimental: ''
+    page-pagination: true
+
+    # CEFR Levels
+    level-a1: A1 (Beginner)
+    level-a2: A2 (Elementary)
+    level-b1: B1 (Intermediate)
+    level-b2: B2 (Upper Intermediate)
+    level-c1: C1 (Advanced)
+    level-c2: C2 (Mastery)
+
+    # Spanish Certifications
+    cert-dele: DELE
+    cert-siele: SIELE
+
+    # Portuguese Certifications
+    cert-celpe-bras: Celpe-Bras
+    cert-caple: CAPLE
+
+    # Institutions
+    inst-cervantes: Instituto Cervantes
+    inst-rae: Real Academia Española
+    inst-camoes: Instituto Camões

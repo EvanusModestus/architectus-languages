@@ -1,0 +1,94 @@
+= Languages
+:description: Language learning journeys - Spanish B2→C2 and Portuguese A1→B2
+:navtitle: Languages
+
+[.lead]
+Language as the architecture of thought across cultures.
+
+== Active Journeys
+
+[cols="1,1,1,2"]
+|===
+|Language |Current |Target |Focus
+
+|**xref:spanish/index.adoc[Spanish]**
+|B2
+|C2
+|Literature, professional, native fluency
+
+|**xref:portuguese/index.adoc[Portuguese]**
+|A1
+|B2
+|Brazilian Portuguese, business, literature
+|===
+
+== Why These Languages?
+
+=== Spanish
+
+* **Literature** — Reading Cervantes, García Márquez, Borges in original
+* **Cultural bridge** — 500+ million speakers worldwide
+* **Professional** — Serving Spanish-speaking communities
+* **Personal** — The joy of another world of expression
+
+=== Portuguese
+
+* **Global reach** — 260+ million speakers
+* **Business** — Brazil as major economic power
+* **Literature** — Pessoa, Machado de Assis
+* **Linguistic bridge** — Spanish accelerates Portuguese
+
+== CEFR Framework
+
+[cols="1,2,2"]
+|===
+|Level |Can Do |Certification
+
+|{level-a1}
+|Basic phrases, introduce self
+|—
+
+|{level-a2}
+|Simple conversations, routine tasks
+|DELE A2
+
+|{level-b1}
+|Travel, express opinions, describe experiences
+|DELE B1, Celpe-Bras
+
+|{level-b2}
+|Complex texts, technical discussions, spontaneous interaction
+|DELE B2, Celpe-Bras
+
+|{level-c1}
+|Implicit meaning, flexible language use, academic/professional
+|DELE C1
+
+|{level-c2}
+|Near-native fluency, subtle nuance, literature
+|DELE C2
+|===
+
+== The Romance Language Advantage
+
+Spanish and Portuguese share ~89% lexical similarity:
+
+* **Shared vocabulary** — cognates accelerate acquisition
+* **Similar grammar** — verb conjugation patterns transfer
+* **Phonetic awareness** — distinguishing similar sounds sharpens listening
+* **Cultural context** — Iberian and Latin American history intertwines
+
+== Learning Methodology
+
+[arabic]
+. **Comprehensible input** — massive reading and listening
+. **Spaced repetition** — vocabulary retention
+. **Active production** — writing and speaking from day one
+. **Cultural immersion** — media, music, native content
+. **Systematic grammar** — structured study alongside input
+
+== Related
+
+* xref:literature::index.adoc[Literature] — Reading in Spanish and Portuguese
+* xref:literature::cervantes/index.adoc[Cervantes] — Don Quijote
+* xref:literature::garcia-marquez/index.adoc[García Márquez] — Magical realism

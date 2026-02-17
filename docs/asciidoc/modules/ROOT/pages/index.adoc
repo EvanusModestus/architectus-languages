@@ -11,12 +11,12 @@ Language as the architecture of thought across cultures.
 |===
 |Language |Current |Target |Focus
 
-|**xref:spanish/index.adoc[Spanish]**
+|**Spanish**
 |B2
 |C2
 |Literature, professional, native fluency
 
-|**xref:portuguese/index.adoc[Portuguese]**
+|**Portuguese**
 |A1
 |B2
 |Brazilian Portuguese, business, literature
@@ -90,5 +90,3 @@ Spanish and Portuguese share ~89% lexical similarity:
 == Related
 
 * xref:literature::index.adoc[Literature] — Reading in Spanish and Portuguese
-* xref:literature::cervantes/index.adoc[Cervantes] — Don Quijote
-* xref:literature::garcia-marquez/index.adoc[García Márquez] — Magical realism
